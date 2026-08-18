@@ -196,6 +196,7 @@ public class D7_01_MoveAllZerosToEnd {
     public static void main(String[] args) {
 
         int[] nums = {1, 0, 2, 3, 0, 4, 0, 1};
+//        int[] nums = {1, 2, 3, 4, 5};
 
         moveZeroes(nums);
 
